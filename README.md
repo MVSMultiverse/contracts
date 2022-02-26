@@ -18,5 +18,5 @@ The smart contract has been permanently deployed on the chain and can no longer 
 - mvsNftPool 0x25b419490526318404c6f195b7bdec18b0f803bb
 
 ## Account
-- dev 0x54d085fB94558f0073158066666aeb1C417386b0
+- commander 0x54d085fB94558f0073158066666aeb1C417386b0
 
